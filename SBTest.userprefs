@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{BA643692-5589-4C61-B1BE-9ADCF0F76FC4}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="../FirstApp/FirstApp/FirstApp.cs" Line="10" Column="18" />
+      <File FileName="SBTest/SBTest.cs" Line="93" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SBTest.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8EF8F974-4CD9-48CB-8CFE-828F39D6E032" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SBTest.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+</Properties>
