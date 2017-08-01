@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{BA643692-5589-4C61-B1BE-9ADCF0F76FC4}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="SBTest/SBTest.cs">
     <Files>
-      <File FileName="../FirstApp/FirstApp/FirstApp.cs" Line="10" Column="18" />
-      <File FileName="SBTest/SBTest.cs" Line="93" Column="28" />
+      <File FileName="../FirstApp/FirstApp/FirstApp.cs" Line="37" Column="23" />
+      <File FileName="SBTest/SBTest.cs" Line="77" Column="63" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
